@@ -5,3 +5,8 @@ body {
 App {
   font-family: arial;
 }
+
+button{
+  height: 20px;
+  width: 40px;
+}
